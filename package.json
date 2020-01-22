@@ -1,7 +1,7 @@
 {
-  "name": "soul-orm",
+  "name": "myorm",
   "version": "1.5.0",
-  "description": "soul-orm",
+  "description": "myorm",
   "main": "dist/index.js",
   "types": "lib/index.ts",
   "scripts": {
@@ -10,17 +10,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/test/soul-orm.git"
+    "url": "git+https://github.com/test/myorm.git"
   },
   "keywords": [
-    "soul-orm"
+    "myorm"
   ],
   "author": "renkun",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/test/soul-orm/issues"
+    "url": "https://github.com/test/myorm/issues"
   },
-  "homepage": "https://github.com/test/soul-orm#readme",
+  "homepage": "https://github.com/test/myorm#readme",
   "dependencies": {
     "mysql": "^2.17.1",
     "sqlstring": "^2.3.1"
